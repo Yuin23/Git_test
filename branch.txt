@@ -1,1 +1,4 @@
 Q: Explain what a branch is, in your own words
+
+A: Branch is rather a virtual branch that is created in the same depositary, it allows developers to switch branch from one to another to work on certain files. 
+ie a developer might want to create a branch, called Temporary, so that he/she can work on a file on the Temporary branch instead of exisiting Master branch, for he/she is not sure if the file should be updated with the work he/she has been working on, OR NOT. You can commit the file with upates from the temporary branch, yet the version on master branch will not be changed, and can be edited in different ways. Or if the developer decided that it's not worth updating the change, he can just leave it, and if wanted, can simply delete the temporary branch. 
