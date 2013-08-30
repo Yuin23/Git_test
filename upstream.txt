@@ -1,1 +1,3 @@
 Q: Explain what the "upstream" remote is usually used for, in your own words. 
+
+A: "upstream" is to pull/copy files from someone else's remote depository to a local depositary. ie if you are a 'fork user' of that remote depositoary. 
